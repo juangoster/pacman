@@ -27,7 +27,7 @@
     "spriteId": {"name":"spr_hero_dead","path":"sprites/spr_hero_dead/spr_hero_dead.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 24.0,
+    "playbackSpeed": 8.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,

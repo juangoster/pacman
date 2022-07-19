@@ -18,7 +18,7 @@
     "spriteId": {"name":"spr_hero_up","path":"sprites/spr_hero_up/spr_hero_up.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 24.0,
+    "playbackSpeed": 15.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,

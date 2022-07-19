@@ -18,7 +18,7 @@
     "spriteId": {"name":"spr_hero_right","path":"sprites/spr_hero_right/spr_hero_right.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 24.0,
+    "playbackSpeed": 15.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
