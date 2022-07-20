@@ -1,6 +1,6 @@
 /// @description cuando el heroe toca al fantasma
-if (global.power) {
-	global.puntos += 100;
+if (other.sprite_index == spr_ghost_weak) {
+	global.puntos += 200;
 	with(other){
 		x = xstart;
 		y = ystart;

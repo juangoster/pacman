@@ -1,16 +1,15 @@
 {
-  "name": "obj_ghost",
   "spriteId": {
     "name": "spr_ghost",
     "path": "sprites/spr_ghost/spr_ghost.yy",
   },
-  "spriteMaskId": null,
+  "solid": false,
   "visible": true,
-  "solid": true,
-  "persistent": false,
-  "physicsObject": false,
   "managed": true,
+  "spriteMaskId": null,
+  "persistent": false,
   "parentObjectId": null,
+  "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsGroup": 1,
@@ -34,6 +33,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
+  "name": "obj_ghost",
   "tags": [],
   "resourceType": "GMObject",
 }
