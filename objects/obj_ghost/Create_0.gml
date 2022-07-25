@@ -1,4 +1,5 @@
-	/// @description cuando se crea el fantasma
+/// @description cuando se crea el fantasma
+randomize();
 sprite_index = spr_ghost;
 image_speed = 0;
 image_index = 0;

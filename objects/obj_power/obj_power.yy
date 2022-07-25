@@ -1,16 +1,15 @@
 {
-  "name": "obj_power",
   "spriteId": {
     "name": "spr_power_up",
     "path": "sprites/spr_power_up/spr_power_up.yy",
   },
-  "spriteMaskId": null,
-  "visible": true,
   "solid": false,
-  "persistent": false,
-  "physicsObject": false,
+  "visible": true,
   "managed": true,
+  "spriteMaskId": null,
+  "persistent": false,
   "parentObjectId": null,
+  "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsGroup": 1,
@@ -30,6 +29,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
+  "name": "obj_power",
   "tags": [],
   "resourceType": "GMObject",
 }

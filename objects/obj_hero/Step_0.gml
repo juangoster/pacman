@@ -1,5 +1,5 @@
 /// @description movimiento del personaje
-if (global.golpe){exit}
+if (global.golpe) || audio_is_playing(snd_intro) {exit}
 //si se oprime la tecla de la derecha
 if keyboard_check(vk_right) && place_free(x+1,y) && place_snapped(32,32)
 {

@@ -8,6 +8,9 @@ if (sprite_index == spr_hero_dead){
 	y = ystart;
 	image_index = 0;
 	global.golpe = false;
+	
+	audio_play_sound(snd_intro,10,false);
+	instance_deactivate_object(obj_ghost);
 }
 
 

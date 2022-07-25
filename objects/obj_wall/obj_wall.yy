@@ -1,16 +1,15 @@
 {
-  "name": "obj_wall",
   "spriteId": {
     "name": "spr_wall",
     "path": "sprites/spr_wall/spr_wall.yy",
   },
-  "spriteMaskId": null,
-  "visible": true,
   "solid": true,
-  "persistent": false,
-  "physicsObject": false,
+  "visible": true,
   "managed": true,
+  "spriteMaskId": null,
+  "persistent": false,
   "parentObjectId": null,
+  "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsGroup": 1,
@@ -30,6 +29,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
+  "name": "obj_wall",
   "tags": [],
   "resourceType": "GMObject",
 }
